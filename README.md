@@ -1,2 +1,2 @@
-# avataar_assignment
+# Avataar Assignment
 
